@@ -1,16 +1,23 @@
-## Hi there 👋
+# Hi there 👋, Lucas Vazquez here. 
+<img align="right" width=300px alt="Unicorn" src="https://media.tenor.com/qhGuNwTuntoAAAAj/river-plate-club-atl%C3%A9tico-river-plate.gif" />
 
-<!--
-**VazquezLucasA/VazquezLucasA** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;***About me***
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
+I am Associate's degree in university programming at <a href="http://www.frt.utn.edu.ar/" target="_blank"> UTN FRT. <a/>
+* **I am interested in Web development, server infrastructure, databases and Data analysis**
 - 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  - React JS
+  - Node JS
+  - Express
+  - MySQL
+  - Proxmox VE
+  - Nginx
+  - Ubuntu Server / Debian OS
+
+<h2>Stats 👀</h2>
+
+![Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=vazquezlucasa)
+
+---------------------------------------------------------------------------------------------------------------------
+
+![Visitor](https://visitor-badge.laobi.icu/badge?page_id=vazquezlucasa) 
