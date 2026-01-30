@@ -3,13 +3,13 @@
 
 ## <img src="https://media1.tenor.com/m/l99hses0uC8AAAAC/hehe-mr-bean.gif" width="30px">&nbsp;***About me***
 
-I am Associate's degree in university programming at <a href="http://www.frt.utn.edu.ar/" target="_blank"> UTN FRT. <a/>
-* **I am interested in Web development, server infrastructure, databases and Data analysis**
+I am Associate's degree in computer science at <a href="http://www.frt.utn.edu.ar/" target="_blank"> UTN FRT. <a/>
+* **I am interested in Web development, server infrastructure and databases **
 - 🌱 I’m currently learning ...
   - React JS
   - Node JS
   - Express
-  - MySQL
+  - SQL
   - Proxmox VE
   - Nginx
   - Ubuntu Server / Debian OS
